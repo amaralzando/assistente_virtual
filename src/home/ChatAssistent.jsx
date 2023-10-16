@@ -2,7 +2,7 @@ import React, { useState } from "react";
 
 const ChatAssistent = () => {
 
-    const apiKey = "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";
+    const apiKey = "API_KEY";
 
     const sendMessage = () =>{
         var message = document.querySelector("#message-input")   
